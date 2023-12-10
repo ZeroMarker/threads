@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@clerk/nextjs": "^4.27.5",
+    "@uploadthing/react": "^6.0.2",
+    "mongoose": "^8.0.3",
+    "svix": "^1.15.0",
+    "tailwindcss-animate": "^1.0.7",
+    "uploadthing": "^6.0.4"
+  }
+}
